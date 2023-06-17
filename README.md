@@ -1,2 +1,2 @@
-# orbitas-periodicas-bifurcacion
-En este repositorio se encuentra toda la información relativa a mi TFG de Matemáticas en la UCM titulado 'Órbitas periódicas y bifurcación' y dirigido por José María Arrieta Algarra.
+# Órbitas periódicas y bifurcación
+En este repositorio se encuentra toda la información relativa a mi TFG de Matemáticas en la UCM titulado 'Órbitas periódicas y bifurcación' y dirigido por José María Arrieta Algarra. En él podemos encontrar la memoria del TFG en formato pdf y el código en lenguaje MATLAB utilizado para la creación de los diagramas de fase de las diferentes animaciones. Se pueden encontrar videos que complementan a lo explicado en la memoria en la lista de reproducción https://bit.ly/orbitas-periodicas-bifurcacion. Por su parte, las construcciones en GeoGebra se encuentran mediante el enlace https://www.geogebra.org/u/jullamas.
